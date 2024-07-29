@@ -1,6 +1,5 @@
 # const welcome = 'Well Hello 👋';
-![MonkeyTechnologyGIF](https://github.com/user-attachments/assets/22e59ef4-f835-4220-b72e-2888f218f474)
-
+![VegasSincityGIF](https://github.com/user-attachments/assets/5302aec4-2814-4d90-830b-a6d6e66fcff5)
 
 ##### const Im = 'FrontEnd WEB developer💻';
 ##### const soon = 'full-stack 🧑‍💻';
