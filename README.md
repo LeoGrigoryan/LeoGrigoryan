@@ -4,7 +4,7 @@
 ##### const Im = 'FrontEnd WEB developer💻';
 ##### const soon = 'full-stack 🧑‍💻';
 
-##### const [getMorem, setGetMore] = useState('15 Years Old🫡')
+##### const [getMorem, setGetMore] = useState('')
 
 ##### window.onscroll = () => {
 - setGetMore('Graduate Elbakyan Krtahamalir Twice ✓ ✓')
